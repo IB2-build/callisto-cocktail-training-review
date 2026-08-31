@@ -24,6 +24,7 @@ Download the repository and open `index.html` in a browser to use the interactiv
 - The final percentage averages the 31 equally weighted cocktail scores
 - Answers lock when the employee advances
 - Wall-clock 30-minute deadline that continues across reloads
+- Leaving, hiding, reloading, or navigating away from the active test page ends the attempt and records the event on the persisted result
 
 ## Study guide visuals
 
