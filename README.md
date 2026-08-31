@@ -25,6 +25,14 @@ Download the repository and open `index.html` in a browser to use the interactiv
 - Answers lock when the employee advances
 - Wall-clock 30-minute deadline that continues across reloads
 
+## Study guide visuals
+
+- All 31 cocktails remain in the searchable study cards and build flash drill.
+- The 23 supplied, name-matched cocktail illustrations appear on their study cards.
+- A visual flash quiz shows those 23 illustrations with the cocktail name hidden until reveal.
+- The eight cocktails without supplied artwork are labeled as build-study-only and are excluded from visual mode.
+- The approved `Bird of paradise (use this one)` variant is used; duplicate and unmatched illustration files are excluded.
+
 ## Accuracy audit
 
 Before this review copy was published:
