@@ -6,7 +6,7 @@ Private review package for the Callisto Volume 2 cocktail-menu training material
 
 - `index.html`: training-package home
 - `Callisto Cocktail Menu - Study Guide.html`: interactive study guide
-- `Callisto Cocktail Menu - Employee Test.html`: 30-minute employee assessment
+- `Callisto Cocktail Menu - Employee Test.html`: 45-minute employee assessment
 - `Callisto Cocktail Menu - Complete Reference.pdf`: complete 31-cocktail training reference
 - `Callisto Volume 2 Edited Version 3 - Source Menu.pdf`: authoritative edited source menu, provided as a private release download because of its file size
 
@@ -23,7 +23,7 @@ Download the repository and open `index.html` in a browser to use the interactiv
 - Cocktail score: round(10 × max(0, correct selections − incorrect selections) ÷ printed ingredients)
 - The final percentage averages the 31 equally weighted cocktail scores
 - Answers lock when the employee advances
-- Wall-clock 30-minute deadline that continues across reloads
+- Wall-clock 45-minute deadline
 - Leaving, hiding, reloading, or navigating away from the active test page ends the attempt and records the event on the persisted result
 
 ## Study guide visuals
