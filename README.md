@@ -15,16 +15,14 @@ Download the repository and open `index.html` in a browser to use the interactiv
 ## Current assessment architecture
 
 - All 31 menu cocktails appear exactly once
-- 24 scored ingredient-recognition questions
-- 7 scored short-answer build questions: Mai Tai, The Loose Cannon, both sharing bowls, and all three non-alcoholic cocktails
-- 14 unique options per ingredient question
-- Exactly four selected components per ingredient question
+- All questions use selectable complete-build ingredient recognition; there are no typed ingredient answers
+- Exactly 20 unique options per cocktail
+- Employees must select every printed ingredient for that cocktail
 - 3 unscored staff-perspective prompts
-- 124 possible points on every generated attempt
-- Correct component: +1 point
-- Incorrect component: -1 point, with a zero-point floor per question
+- Every cocktail is worth 10 points, for 310 possible points
+- Cocktail score: round(10 × max(0, correct selections − incorrect selections) ÷ printed ingredients)
+- The final percentage averages the 31 equally weighted cocktail scores
 - Answers lock when the employee advances
-- Short answers require any four printed components and ignore capitalization, punctuation, accents, and documented source spelling variants
 - Wall-clock 30-minute deadline that continues across reloads
 
 ## Accuracy audit
@@ -35,7 +33,7 @@ Before this review copy was published:
 - All 21 source pages were independently rendered and visually reviewed.
 - The supplied source copy was verified byte-for-byte against the original attachment.
 - Equivalent source spellings such as `Pinapple`/`Pineapple` and `Planteray 3 Star`/`3 Stars` are prevented from appearing as false distractors.
-- 200 generated assessments were checked for exact 31-cocktail coverage, question counts, 14 unique recognition options, valid keys, false distractors, the seven designated short-answer builds, fixed 124-point totals, answer locking, scoring, and 390-pixel mobile fit.
+- 200 generated assessments were checked for exact 31-cocktail coverage, complete answer keys, 20 canonically unique options per cocktail, valid keys, false distractors, fixed 310-point totals, equal cocktail weighting, answer locking, scoring, and 390-pixel mobile fit.
 
 ## Confidentiality
 
