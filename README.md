@@ -37,12 +37,13 @@ Download the repository and open `index.html` in a browser to use the interactiv
 
 Before this review copy was published:
 
-- All 31 cocktail records were compared with the authoritative source PDF.
+- All 31 cocktail records were compared with the source PDF and Izaak Barrett's explicit final text corrections.
 - All 21 source pages were independently rendered and visually reviewed.
 - The supplied source copy was verified byte-for-byte against the original attachment.
-- Equivalent source spellings such as `Pinapple`/`Pineapple` and `Planteray 3 Star`/`3 Stars` are prevented from appearing as false distractors.
+- The final spirit types, tasting notes, ingredient separation, spelling, and accents were validated across the guide, reference, and assessment.
+- Superseded spellings and legacy Planteray variants are prevented from appearing as false distractors.
 - 200 generated assessments were checked for exact 31-cocktail coverage, complete answer keys, 20 canonically unique options per cocktail, valid keys, false distractors, fixed 310-point totals, equal cocktail weighting, answer locking, scoring, and 390-pixel mobile fit.
 
-## Confidentiality
+## Sharing
 
-Internal Callisto training material. Do not make this repository public or redistribute the cocktail builds without authorization.
+This public training resource is approved for sharing by link with Callisto staff.
