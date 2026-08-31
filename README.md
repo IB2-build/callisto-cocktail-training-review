@@ -28,9 +28,9 @@ Download the repository and open `index.html` in a browser to use the interactiv
 ## Study guide visuals
 
 - All 31 cocktails remain in the searchable study cards and build flash drill.
-- The 23 supplied, name-matched cocktail illustrations appear on their study cards.
-- A visual flash quiz shows those 23 illustrations with the cocktail name hidden until reveal.
-- The eight cocktails without supplied artwork are labeled as build-study-only and are excluded from visual mode.
+- The 27 mapped cocktail illustrations appear on their study cards.
+- A visual flash quiz shows those 27 illustrations with the cocktail name hidden until reveal.
+- The four cocktails without artwork are labeled as build practice and are excluded from visual mode.
 - The approved `Bird of paradise (use this one)` variant is used; duplicate and unmatched illustration files are excluded.
 
 ## Accuracy audit
